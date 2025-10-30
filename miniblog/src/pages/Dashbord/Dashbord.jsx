@@ -1,4 +1,4 @@
-import style from "./Dashbord.module.css";
+import styles from "./Dashbord.module.css";
 
 const Dashbord = () => {
   return (
